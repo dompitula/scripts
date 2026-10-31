@@ -1,1 +1,3 @@
 transcribe_video/transcriptions/*
+*/.venv
+.venv
